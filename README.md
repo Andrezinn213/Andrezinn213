@@ -1,6 +1,10 @@
-- 👍: Salve meu nome é @Andrezinn213
-- 👀 Só quero aprender a mexer com isso é toix 
-- 🌱 Eu estou aprendendo a programar recentemente a linguagem de javaScript e scratch
+- 👍: oi meu nome é @Andrezinn213
+:eyes: bom, atualmente sou novo do github
+:heart_eyes_cat: adoro muito a parte de informatica e tecnologia 
+:heart_eyes_cat: tenho um leve conhecimento em hardwere e software
+:heart_eyes_cat: estou trabalhando para criar um jogo 
+
+
 
 
 
